@@ -10,4 +10,4 @@ function operacao(valor1, valor2) {
     return resultado
 }
 
-console.log(operacao(1, 5))
+console.log(operacao(2, 5))
