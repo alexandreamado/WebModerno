@@ -8,6 +8,7 @@ console.log(aprovados[1])
 console.log(aprovados[2])
 console.log(aprovados[3]) 
 
+
 aprovados[3] = 'Fernanda' 
 aprovados.push('Abia')
 console.log(aprovados.length)
