@@ -2,11 +2,12 @@
 // que o segundo será o número de vezes que haverá repetição. Um array será retornado.
 
 function repetir(repetira, numeroDeVezes) {
-    for() {
-        let retorno = [] ;
-        let repet = retorno.push(numeroDeVezes)
-        console.log(repet)
-    }
+    let retorno = [] ;
+    
+    for(let i = 0; i < numeroDeVezes; i++) {
+         retorno.push(repetira)
+    } 
+    return retorno 
 } 
 
-repetir(2, 3)
+console.log(repetir(2,3))
