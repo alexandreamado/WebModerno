@@ -3,7 +3,7 @@
 
 function repetir(repetira, numeroDeVezes) {
     let retorno = [] ;
-    
+
     for(let i = 0; i < numeroDeVezes; i++) {
          retorno.push(repetira)
     } 
